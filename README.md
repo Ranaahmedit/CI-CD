@@ -67,7 +67,7 @@ Jenkins Pipeline as Code provides flexibility and reusability, making it an exce
 ### Step 7 – Prepare Jenkins Pipeline Script
 - Utilize Jenkins pipeline as code (declarative type).
 - Include the Jenkins declarative pipeline script for deploying the Java application on EKS.
-- Look at this file [jenkinsfile.txt](https://github.com/Ranaahmedit/CI-CD/files/14545207/jenkinsfile.txt)
+
 
 ## Conclusion
 By following these steps, you'll have successfully set up a Jenkins pipeline for automating the deployment of a Java application on Amazon EKS, integrating key technologies like Git, Docker, and Kubernetes.
